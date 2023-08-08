@@ -1,2 +1,2 @@
-# node-exporter-linux
-Node exporter for Linux
+# node-exporter
+Node exporter for Monitor
